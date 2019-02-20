@@ -1,0 +1,14 @@
+.top-menubar {
+  box-shadow: none !important;
+  border: none !important;
+}
+
+.bar-background {
+  background: url('https://dcf54aygx3v5e.cloudfront.net/35c5f64e-d137-45e8-a1e4-83d0cf1e97fb/58cee35f-b0d9-464e-ab2b-8a2edc944030.jpg?cache=new') no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+}
+
+.footer-container {
+  margin-top: 20px !important;
+}
